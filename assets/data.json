@@ -1,0 +1,45 @@
+[
+    {
+        "id": "0",
+        "productName": "Coated Fabric Gloves",
+        "image": "coated-special-fabric-hand-gloves.jpg",
+
+        "price": "1499",
+        "description": "Tthese gloves provide a little more protection against punctures, cuts, and chemicals. Nitrile, PVC, and polyurethane are common types of coatings, but the actual coating you need depends on the job itself.he Huawei MateBook X Pro is our pick for the best laptop money can buy in 2018. This is a gorgeously-designed laptop with a stunning screen (albeit with a rather odd aspect ratio), and it comes packed with cutting edge components that allows it to perform brilliantly, and a battery life that runs rings around many of its rivals. It also has a very competitive price, giving you features, design and performance for quite a bit less money."
+    },
+    {
+        "id": "1",
+        "productName": "Latex, Rubber or Plastic Gloves",
+        "image": "latex-gloves.jpg",
+
+        "price": "3199",
+        "description": "These gloves are most commonly used in medical settings or laboratories. They’re usually form-fitting to allow for movability, but offer protection from biohazards, chemicals, solvents, and other harmful substances."
+    },
+    {
+        "id": "2",
+        "productName": "SafeGuard Sanitizer",
+        "image": "safeguard.jpg",
+
+        "price": "1199",
+        "description": "Safeguard is a trusted product and is of good quality. Not only it kills 99% of the germs but also got pleasant fragrance."
+    },
+    {
+        "id": "3",
+        "productName": "Dettol Sanitizer",
+        "image": "dettol-sanitizer.jpg",
+
+        "price": "1399",
+        "description": 
+        "Best for hand wash training for kids and hygienically best option to be kept in kitchen and washrooms."
+    },
+    {
+        "id": "4",
+        "productName": "Dettol Antiseptic Liquid 50ml",
+        "image": "dettol-antiseptic.jpg",
+
+        "price": "1499",
+        "description":
+        "Dettol Antiseptic Disinfectant liquid is a concentrated antiseptic solution, Kills bacteria, Provides protection against germs which can cause infection and illness, Kills germs on skin, Protects against infection from cuts, scratches, and insect bites."
+
+    }
+]
